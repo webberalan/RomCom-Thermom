@@ -1,16 +1,16 @@
-This project constitutes a Python-powered **RomCom Thermom**, made up of two main parts:
+This project constitutes a Python-powered **_RomCom Thermom_**, made up of two main parts:
 
 1)	a JSON dataset of 462 full-text romance and comedy screenplays, web scraped from IMSDb.com
 2)	a sentiment analysis code, which utilizes Google’s machine learning-based Cloud Natural Language API
 
 ![alt text](https://raw.githubusercontent.com/webberalan/RomCom-Thermom/main/RomComThermomPhotoFinal.jpg?raw=true)
 
-Inspiration for the Thermom comes from my interest in storytelling structure, and draws upon the experiments of Kurt Vonnegut and Vladimir Propp in mapping out core types of narratives through shapes and irreducible units.  I came across several other programming projects playing off of Vonnegut and Propp’s ideas (Matthew Jockers’s [R syuzhet](https://blog.revolutionanalytics.com/2015/02/finding-the-dramatic-arc-of-novels-with-sentiment-analysis.html
+Inspiration for the _Thermom_ comes from my interest in storytelling structure, and draws upon the experiments of Kurt Vonnegut and Vladimir Propp in mapping out core types of narratives through shapes and irreducible units.  I came across several other programming projects playing off of Vonnegut and Propp’s ideas (Matthew Jockers’s [R syuzhet](https://blog.revolutionanalytics.com/2015/02/finding-the-dramatic-arc-of-novels-with-sentiment-analysis.html
 ), Dan Kuster’s [Jupyter notebook](https://indico.io/blog/plotlines/a-computer/490733/
 ) on Disney screenplays, and [story shape research](https://www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/
-) at the University of Vermont and University of Adelaide), which were also influential.  Romantic comedies and the character tropes of reporter, tramp and heiress have been a particular node of personal investigation; the RomCom Thermom provides a vehicle for further examination into the tone and emotional flow of characters’ interactions per this genre of narrative.  
+) at the University of Vermont and University of Adelaide), which were also influential.  Romantic comedies and the character tropes of reporter, tramp and heiress have been a particular node of personal investigation; the _RomCom Thermom_ provides a vehicle for further examination into the tone and emotional flow of characters’ interactions per this genre of narrative.  
 
-While by no means exhaustive, the Internet Movie Script Database presents one of the most comprehensive, publically available collections of screenplays on the internet.  I chose IMSDb as the data source for the Thermom due to its voluminous nature and for the sake of variety in content.  IMSDb also integrates information from the more famous IMDb into its records, which would make it easy to potentially link other movie elements to the dataset.  Screenplays on IMSDb are written in HTML and not accessible as PDFs, etc., making the JSON dataset of collected screenplays an even more pertinent and usable asset.  
+While by no means exhaustive, the Internet Movie Script Database presents one of the most comprehensive, publically available collections of screenplays on the internet.  I chose IMSDb as the data source for the _Thermom_ due to its voluminous nature and for the sake of variety in content.  IMSDb also integrates information from the more famous IMDb into its records, which would make it easy to potentially link other movie elements to the dataset.  Screenplays on IMSDb are written in HTML and not accessible as PDFs, etc., making the JSON dataset of collected screenplays an even more pertinent and usable asset.  
 
 **JSON Dataset**
 
@@ -69,7 +69,7 @@ For this project, I selected five classic romcoms to analyze:  _10 Things I Hate
 
 In the above screenplay and others, I found that the ‘score’ tends to not fluctuate very much, providing more of monitored tone of the screenplay, whereas the ‘magnitude’ has its peaks and valleys, more in the tradition of Vonnegut’s story shape analysis.  I will be providing Tableau-generated visualizations of my selected examples in the near future, in addition to the detailed JSON files available on GitHub.
 
-Overall, I believe the RomCom Thermom can be useful as either a JSON dataset for someone to use however they want in examining one of the 462 screenplays available, or as a Python script to run sentiment analysis on various movie screenplays in various segments of text to take the temperature of anything from a Hugh Grant fluff vehicle to a Billy Wilder penned masterpiece.  
+Overall, I believe the _RomCom Thermom_ can be useful as either a JSON dataset for someone to use however they want in examining one of the 462 screenplays available, or as a Python script to run sentiment analysis on various movie screenplays in various segments of text to take the temperature of anything from a Hugh Grant fluff vehicle to a Billy Wilder penned masterpiece.  
 
 
 _Special thanks to Professor Matt Miller and Erin Elsbernd for their assistance on the project_
