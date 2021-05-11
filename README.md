@@ -1,7 +1,9 @@
-This project constitutes a Python-powered RomCom Thermom, made up of two main parts:
+This project constitutes a Python-powered **RomCom Thermom**, made up of two main parts:
 
 1)	a JSON dataset of 462 full-text romance and comedy screenplays, web scraped from IMSDb.com
 2)	a sentiment analysis code, which utilizes Google’s machine learning-based Cloud Natural Language API
+
+![alt text](https://raw.githubusercontent.com/webberalan/RomCom-Thermom/main/RomComThermomPhotoFinal.jpg?raw=true)
 
 Inspiration for the Thermom comes from my interest in storytelling structure, and draws upon the experiments of Kurt Vonnegut and Vladimir Propp in mapping out core types of narratives through shapes and irreducible units.  I came across several other programming projects playing off of Vonnegut and Propp’s ideas (Matthew Jockers’s [R syuzhet](https://blog.revolutionanalytics.com/2015/02/finding-the-dramatic-arc-of-novels-with-sentiment-analysis.html
 ), Dan Kuster’s [Jupyter notebook](https://indico.io/blog/plotlines/a-computer/490733/
@@ -69,4 +71,7 @@ In the above screenplay and others, I found that the ‘score’ tends to not fl
 
 Overall, I believe the RomCom Thermom can be useful as either a JSON dataset for someone to use however they want in examining one of the 462 screenplays available, or as a Python script to run sentiment analysis on various movie screenplays in various segments of text to take the temperature of anything from a Hugh Grant fluff vehicle to a Billy Wilder penned masterpiece.  
 
-Special thanks to Professor Matt Miller and Erin Elsbernd for their assistance on the project
+
+_Special thanks to Professor Matt Miller and Erin Elsbernd for their assistance on the project_
+
+Photo:  Cooper thermometer (physical scan by Alan Webber) and still from It Happened One Night (1934) with Clark Gable and Claudette Colbert
