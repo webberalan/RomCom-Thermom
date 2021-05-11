@@ -72,6 +72,6 @@ In the above screenplay and others, I found that the ‘score’ tends to not fl
 Overall, I believe the _RomCom Thermom_ can be useful as either a JSON dataset for someone to use however they want in examining one of the 462 screenplays available, or as a Python script to run sentiment analysis on various movie screenplays in various segments of text to take the temperature of anything from a Hugh Grant fluff vehicle to a Billy Wilder penned masterpiece.  
 
 
-_Special thanks to Professor Matt Miller and Erin Elsbernd for their assistance on the project_
+_Special thanks to Pratt Institute Professor Matt Miller and Erin Elsbernd for their assistance on the project_
 
 Photo:  Cooper thermometer (physical scan by Alan Webber) and still from It Happened One Night (1934) with Clark Gable and Claudette Colbert
