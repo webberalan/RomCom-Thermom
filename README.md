@@ -34,7 +34,7 @@ Before running the Python code, you need to set your JSON file key in the Termin
 
 **Conclusion**
 
-For this project, I selected five classic romcoms to analyze:  10 Things I Hate About You, Annie Hall, His Girl Friday, It Happened One Night and The Apartment.  Since the JSON database also contains results for movies which polarize towards the far ends of each of that hybrid’s corresponding genres, I also chose one movie that was obviously a comedy (Beavis and Butt-Head Do America) and one that was obviously a romance (The Bodyguard).  Detailed results with corresponding text are available at the GitHub link above, but I am also including the results for 10 Things I Hate About You below for quick reference:
+For this project, I selected five classic romcoms to analyze:  _10 Things I Hate About You_, _Annie Hall_, _His Girl Friday_, _It Happened One Night_ and _The Apartment_.  Since the JSON database also contains results for movies which polarize towards the far ends of each of that hybrid’s corresponding genres, I also chose one movie that was obviously a comedy (_Beavis and Butt-Head Do America_) and one that was obviously a romance (_The Bodyguard_).  Detailed results with corresponding text are available at the GitHub link above, but I am also including the results for 10 Things I Hate About You below for quick reference:
 
   Pages 1-10:
 "score": -0.10000000149011612,
