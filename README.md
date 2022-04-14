@@ -67,7 +67,7 @@ For this project, I selected five classic romcoms to analyze:  _10 Things I Hate
 "score": -0.10000000149011612,
 "magnitude": 46.70000076293945
 
-In the above screenplay and others, I found that the ‘score’ tends to not fluctuate very much, providing more of a monitored tone of the screenplay, whereas the ‘magnitude’ has its peaks and valleys, more in the tradition of Vonnegut’s story shape analysis.  I will be providing [Tableau-generated visualizations](https://public.tableau.com/app/profile/alan.webber5364/viz/Python-poweredRomComThermomDashboard/Python-poweredRomComThermomDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) of my selected examples in the near future, in addition to the detailed JSON files available on GitHub.
+In the above screenplay and others, I found that the ‘score’ tends to not fluctuate very much, providing more of a monitored tone of the screenplay, whereas the ‘magnitude’ has its peaks and valleys, more in the tradition of Vonnegut’s story shape analysis.  The [Tableau-generated visualizations](https://public.tableau.com/app/profile/alan.webber5364/viz/Python-poweredRomComThermomDashboard/Python-poweredRomComThermomDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) below illustrate this, with interactive options (including screenplay text excerpts from specific page parameters) available via Tableau Public.
 
 ![alt text](https://raw.githubusercontent.com/webberalan/RomCom-Thermom/main/Thermom_tableauscreenshot.jpg?raw=true)
 
