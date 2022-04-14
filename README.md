@@ -69,7 +69,7 @@ For this project, I selected five classic romcoms to analyze:  _10 Things I Hate
 
 In the above screenplay and others, I found that the ‘score’ tends to not fluctuate very much, providing more of a monitored tone of the screenplay, whereas the ‘magnitude’ has its peaks and valleys, more in the tradition of Vonnegut’s story shape analysis.  I will be providing [Tableau-generated visualizations](https://public.tableau.com/app/profile/alan.webber5364/viz/Python-poweredRomComThermomDashboard/Python-poweredRomComThermomDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) of my selected examples in the near future, in addition to the detailed JSON files available on GitHub.
 
-![alt text](https://raw.githubusercontent.com/webberalan/RomCom-Thermom/main/[Thermom_tableauscreenshot.jpg](https://public.tableau.com/app/profile/alan.webber5364/viz/Python-poweredRomComThermomDashboard/Python-poweredRomComThermomDashboard)?raw=true)
+![alt text](https://raw.githubusercontent.com/webberalan/RomCom-Thermom/main/[Thermom_tableauscreenshot.jpg]
 
 Overall, I believe the _RomCom Thermom_ can be useful as either a JSON dataset for someone to use however they want in examining one of the 462 screenplays available, or as a Python script to run sentiment analysis on various movie screenplays in various segments of text to take the temperature of anything from a Hugh Grant fluff vehicle to a Billy Wilder penned masterpiece.  
 
